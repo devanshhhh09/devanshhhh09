@@ -4,21 +4,11 @@
 
 ### Software Engineer · Distributed Systems & AI Integration
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems+%26+AI;Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)
 
 ---
 
 ## 👋 Hello, I'm Devansh
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&ring_color=4285f4" />
 
 🎓 **B.Tech Computer Science** · Dr. Shakuntala Mishra National Rehabilitation University, Lucknow
 
@@ -31,8 +21,6 @@
 📫 **contact.devanshyadav@gmail.com**
 
 🎯 **Targeting** Google SWE Intern 2027 & Amazon SDE-I
-
-<br clear="right"/>
 
 ---
 
@@ -50,8 +38,6 @@ Software Engineer with proven experience architecting and developing **distribut
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Distributed Systems & Concurrency**
 
@@ -75,31 +61,25 @@ Software Engineer with proven experience architecting and developing **distribut
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%2FLlama--3.3--70b-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
 
-</div>
-
 ---
 
 ## 🏗️ Featured Project — PoliceOSINT v1.0
 
-<div align="center">
-
-[![PoliceOSINT](https://github-readme-stats.vercel.app/api/pin/?username=devanshhhh09&repo=PoliceOSINT&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9)](https://github.com/devanshhhh09/policeosint)
+[![PoliceOSINT](https://github-readme-stats-two-theta-67.vercel.app/api/pin/?username=devanshhhh09&repo=PoliceOSINT&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9)](https://github.com/devanshhhh09/policeosint)
 
 **[🔗 View PoliceOSINT on GitHub →](https://github.com/devanshhhh09/policeosint)**
 
-</div>
-
 > **AI-Powered Cyber Crime Investigation & Intelligence Platform** for Gurugram Police
 
-| | |
-|---|---|
-| 🧠 **AI Engine** | Groq/Llama-3.3-70b — drafts FIR notes, assigns risk scores (0–100), recommends IPC/IT Act sections |
-| ⚡ **Async Pipeline** | Celery + Redis task queues scraping 50+ sources concurrently |
-| 🔍 **OSINT Modules** | 10+ modules: IP Intel, Domain Analysis, UPI Fraud, Crypto Tracing, Dark Web, GEOINT |
-| 🪙 **Crypto Engine** | BTC/ETH/TRX tracing, mixer detection, cluster analysis, Indian VASP LEA contacts |
-| 📊 **Dashboard** | Real-time command dashboard, Entity Relationship Graph, UPI Fraud Cluster visualization |
-| ✅ **Quality** | 55/55 unit tests passing · 8-level RBAC · Complete audit trail |
-| 🚀 **Stack** | Next.js 14 · FastAPI · Celery · Redis · PostgreSQL · Docker · Groq/Llama-3.3-70b · Nginx |
+<table>
+<tr><td align="center">🧠 <b>AI Engine</b></td><td>Groq/Llama-3.3-70b — drafts FIR notes, assigns risk scores (0–100), recommends IPC/IT Act sections</td></tr>
+<tr><td align="center">⚡ <b>Async Pipeline</b></td><td>Celery + Redis task queues scraping 50+ sources concurrently</td></tr>
+<tr><td align="center">🔍 <b>OSINT Modules</b></td><td>10+ modules: IP Intel, Domain Analysis, UPI Fraud, Crypto Tracing, Dark Web, GEOINT</td></tr>
+<tr><td align="center">🪙 <b>Crypto Engine</b></td><td>BTC/ETH/TRX tracing, mixer detection, cluster analysis, Indian VASP LEA contacts</td></tr>
+<tr><td align="center">📊 <b>Dashboard</b></td><td>Real-time command dashboard, Entity Relationship Graph, UPI Fraud Cluster visualization</td></tr>
+<tr><td align="center">✅ <b>Quality</b></td><td>55/55 unit tests passing · 8-level RBAC · Complete audit trail</td></tr>
+<tr><td align="center">🚀 <b>Stack</b></td><td>Next.js 14 · FastAPI · Celery · Redis · PostgreSQL · Docker · Groq/Llama-3.3-70b · Nginx</td></tr>
+</table>
 
 **Impact:** Reduced manual evidence triage by ~70% · Enabled proactive intelligence-driven policing
 
@@ -107,15 +87,9 @@ Software Engineer with proven experience architecting and developing **distribut
 
 ## 📈 LeetCode Progress
 
-<div align="center">
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/devanshhhh09?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/u/devanshhhh09)
 
-</div>
-
 <!-- LC_STATS_START -->
-<div align="center">
-
 <table>
 <tr>
 <td align="center">✅ <b>Total Solved</b></td>
@@ -146,8 +120,6 @@ Software Engineer with proven experience architecting and developing **distribut
 <td align="center">250+ by December 2026</td>
 </tr>
 </table>
-
-</div>
 <!-- LC_STATS_END -->
 
 > Practicing **2 problems/day** in C++ · Focused on **Graphs, Dynamic Programming & Trees** — the highest-frequency Google & Amazon interview topics
@@ -182,21 +154,15 @@ System Design        ████████████░░░░░░░�
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=devanshhhh09&theme=dark&hide_border=true&background=0d1117&ring=4285f4&fire=ea4335&currStreakLabel=34a853&sideLabels=4285f4&dates=c9d1d9)
 
 ![Devansh's GitHub Stats](https://github-readme-stats-two-theta-67.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true)
 
-[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true&custom_title=Contribution%20Graph%20—%20Last%2012%20Months)](https://github.com/devanshhhh09)
-
-</div>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true&custom_title=Contribution%20Graph%20—%20Last%2012%20Months)](https://github.com/devanshhhh09)
 
 ---
 
 ## 🌐 Connect
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://devanshhhh09.github.io)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devanshhhh09)
@@ -204,11 +170,7 @@ System Design        ████████████░░░░░░░�
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.devanshyadav@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshhhh09)
 
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=80&section=footer&reversal=false)
+---
 
 *© 2026 Devansh · Built for Google & Amazon · C++ & ☕*
 
