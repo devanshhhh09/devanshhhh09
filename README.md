@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devansh&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/devanshhhh09/devanshhhh09/main/header.svg" width="100%" onerror="this.style.display='none'"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1&pause=1000&color=4285F4&center=true&vCenter=true&repeat=false&width=400&lines=Hi%2C+I'm+Devansh+👋" alt="Hi, I'm Devansh"/>
+</h1>
 
 </div>
 
@@ -79,7 +83,9 @@ Software Engineer with proven experience architecting and developing **distribut
 
 <div align="center">
 
-[![PoliceOSINT](https://github-readme-stats.vercel.app/api/pin/?username=devanshhhh09&repo=policeosint&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9)](https://github.com/devanshhhh09/policeosint)
+[![PoliceOSINT](https://github-readme-stats.vercel.app/api/pin/?username=devanshhhh09&repo=PoliceOSINT&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9)](https://github.com/devanshhhh09/policeosint)
+
+**[🔗 View PoliceOSINT on GitHub →](https://github.com/devanshhhh09/policeosint)**
 
 </div>
 
@@ -108,8 +114,10 @@ Software Engineer with proven experience architecting and developing **distribut
 </div>
 
 <!-- LC_STATS_START -->
+<div align="center">
+
 | | Count |
-|---|---|
+|:---:|:---:|
 | ✅ **Total Solved** | **163** |
 | 🟢 **Easy** | 42 |
 | 🟡 **Medium** | 93 |
@@ -117,6 +125,8 @@ Software Engineer with proven experience architecting and developing **distribut
 | 📊 **Acceptance Rate** | 75.6% |
 | 💻 **Language** | C++ |
 | 🎯 **Goal** | 250+ by December 2026 |
+
+</div>
 <!-- LC_STATS_END -->
 
 > Practicing **2 problems/day** in C++ · Focused on **Graphs, Dynamic Programming & Trees** — the highest-frequency Google & Amazon interview topics
@@ -156,7 +166,9 @@ System Design        ████████████░░░░░░░�
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshhhh09&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=6" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&theme=react-dark&hide_border=true&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05" />
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=devanshhhh09&theme=dark&hide_border=true&background=0d1117&ring=4285f4&fire=ea4335&currStreakLabel=34a853&sideLabels=4285f4&dates=c9d1d9" />
 
 </div>
 
@@ -176,6 +188,8 @@ System Design        ████████████░░░░░░░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=80&section=footer&reversal=false)
+
+*© 2026 Devansh · Built for Google & Amazon · C++ & ☕*
 
 </div>
