@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devanshhhh09/devanshhhh09/main/header.svg" width="100%" onerror="this.style.display='none'"/>
+# 👋 Hi, I'm Devansh
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1&pause=1000&color=4285F4&center=true&vCenter=true&repeat=false&width=400&lines=Hi%2C+I'm+Devansh+👋" alt="Hi, I'm Devansh"/>
-</h1>
+### Software Engineer · Distributed Systems & AI Integration
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -116,15 +116,36 @@ Software Engineer with proven experience architecting and developing **distribut
 <!-- LC_STATS_START -->
 <div align="center">
 
-| | Count |
-|:---:|:---:|
-| ✅ **Total Solved** | **163** |
-| 🟢 **Easy** | 42 |
-| 🟡 **Medium** | 93 |
-| 🔴 **Hard** | 27 |
-| 📊 **Acceptance Rate** | 75.6% |
-| 💻 **Language** | C++ |
-| 🎯 **Goal** | 250+ by December 2026 |
+<table>
+<tr>
+<td align="center">✅ <b>Total Solved</b></td>
+<td align="center"><b>163</b></td>
+</tr>
+<tr>
+<td align="center">🟢 <b>Easy</b></td>
+<td align="center">42</td>
+</tr>
+<tr>
+<td align="center">🟡 <b>Medium</b></td>
+<td align="center">93</td>
+</tr>
+<tr>
+<td align="center">🔴 <b>Hard</b></td>
+<td align="center">27</td>
+</tr>
+<tr>
+<td align="center">📊 <b>Acceptance Rate</b></td>
+<td align="center">75.6%</td>
+</tr>
+<tr>
+<td align="center">💻 <b>Language</b></td>
+<td align="center">C++</td>
+</tr>
+<tr>
+<td align="center">🎯 <b>Goal</b></td>
+<td align="center">250+ by December 2026</td>
+</tr>
+</table>
 
 </div>
 <!-- LC_STATS_END -->
