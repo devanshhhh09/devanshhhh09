@@ -184,15 +184,13 @@ System Design        ████████████░░░░░░░�
 
 <div align="center">
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshhhh09&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&text_color=c9d1d9&langs_count=6)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=devanshhhh09&theme=dark&hide_border=true&background=0d1117&ring=4285f4&fire=ea4335&currStreakLabel=34a853&sideLabels=4285f4&dates=c9d1d9)
 
-</div>
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true)
 
-> **Note:** Stats cards may occasionally show a broken image due to GitHub API rate limits on shared instances — this is a known GitHub README limitation, not an error in the profile.
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true)
+
+</div>
 
 ---
 
