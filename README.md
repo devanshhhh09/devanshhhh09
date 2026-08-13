@@ -188,7 +188,7 @@ System Design        ████████████░░░░░░░�
 
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true)
+[![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshhhh09&bg_color=0d1117&color=4285f4&line=34a853&point=fbbc05&area=true&hide_border=true&custom_title=Contribution%20Graph%20—%20Last%2012%20Months)](https://github.com/devanshhhh09)
 
 </div>
 
