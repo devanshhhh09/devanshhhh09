@@ -90,26 +90,28 @@ Software Engineer with proven experience architecting and developing **distribut
 [![LeetCode Stats](https://leetcard.jacoblin.cool/devanshhhh09?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/u/devanshhhh09)
 
 <!-- LC_STATS_START -->
+<div align="center">
+
 <table>
 <tr>
 <td align="center">✅ <b>Total Solved</b></td>
-<td align="center"><b>163</b></td>
+<td align="center"><b>184</b></td>
 </tr>
 <tr>
 <td align="center">🟢 <b>Easy</b></td>
-<td align="center">42</td>
+<td align="center">49</td>
 </tr>
 <tr>
 <td align="center">🟡 <b>Medium</b></td>
-<td align="center">93</td>
+<td align="center">103</td>
 </tr>
 <tr>
 <td align="center">🔴 <b>Hard</b></td>
-<td align="center">27</td>
+<td align="center">32</td>
 </tr>
 <tr>
 <td align="center">📊 <b>Acceptance Rate</b></td>
-<td align="center">75.6%</td>
+<td align="center">N/A</td>
 </tr>
 <tr>
 <td align="center">💻 <b>Language</b></td>
@@ -120,6 +122,8 @@ Software Engineer with proven experience architecting and developing **distribut
 <td align="center">250+ by December 2026</td>
 </tr>
 </table>
+
+</div>
 <!-- LC_STATS_END -->
 
 > Practicing **2 problems/day** in C++ · Focused on **Graphs, Dynamic Programming & Trees** — the highest-frequency Google & Amazon interview topics
