@@ -4,7 +4,7 @@
 
 ### Software Engineer · Distributed Systems & AI Integration
 
-<!-- LC_TYPING_START -->[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)<!-- LC_TYPING_END -->
+<!-- LC_TYPING_START --><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles" alt="Typing SVG" /><!-- LC_TYPING_END -->
 
 ---
 
@@ -156,7 +156,7 @@ System Design        ████████████░░░░░░░�
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devanshhhh09&theme=dark&hide_border=true&background=0d1117&ring=4285f4&fire=ea4335&currStreakLabel=34a853&sideLabels=4285f4&dates=c9d1d9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devanshhhh09&theme=dark&hide_border=true&background=0d1117&ring=4285f4&fire=ea4335&currStreakLabel=34a853&sideLabels=4285f4&dates=c9d1d9&stroke=4285f4)
 
 ![Devansh's GitHub Stats](https://github-readme-stats-two-theta-67.vercel.app/api?username=devanshhhh09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4285f4&icon_color=34a853&text_color=c9d1d9&count_private=true)
 
