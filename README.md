@@ -128,13 +128,15 @@ Software Engineer with proven experience architecting and developing **distribut
 
 ## 🎯 Google & Amazon Readiness
 
+<!-- LC_READY_START -->
 ```
 Distributed Systems  ████████████████████  Architected in Production (PoliceOSINT)
-<!-- LC_READY_START -->Programming (C++)    ████████████████░░░░  163+ LeetCode · Daily Practice<!-- LC_READY_END -->
+Programming (C++)    ████████████████░░░░  163+ LeetCode · Daily Practice
 Algorithms & DSA     ██████████████░░░░░░  Arrays, Trees, HashMaps · Building Graphs & DP
 AI Integration       ████████████████████  Groq/Llama-3.3-70b in Production
 System Design        ████████████░░░░░░░░  Learning · PoliceOSINT as foundation
 ```
+<!-- LC_READY_END -->
 
 ---
 
