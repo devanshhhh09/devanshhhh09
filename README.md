@@ -4,7 +4,7 @@
 
 ### Software Engineer · Distributed Systems & AI Integration
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)
+<!-- LC_TYPING_START -->[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+163%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles)](https://git.io/typing-svg)<!-- LC_TYPING_END -->
 
 ---
 
@@ -90,28 +90,26 @@ Software Engineer with proven experience architecting and developing **distribut
 [![LeetCode Stats](https://leetcard.jacoblin.cool/devanshhhh09?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/u/devanshhhh09)
 
 <!-- LC_STATS_START -->
-<div align="center">
-
 <table>
 <tr>
 <td align="center">✅ <b>Total Solved</b></td>
-<td align="center"><b>184</b></td>
+<td align="center"><b>163</b></td>
 </tr>
 <tr>
 <td align="center">🟢 <b>Easy</b></td>
-<td align="center">49</td>
+<td align="center">42</td>
 </tr>
 <tr>
 <td align="center">🟡 <b>Medium</b></td>
-<td align="center">103</td>
+<td align="center">93</td>
 </tr>
 <tr>
 <td align="center">🔴 <b>Hard</b></td>
-<td align="center">32</td>
+<td align="center">27</td>
 </tr>
 <tr>
 <td align="center">📊 <b>Acceptance Rate</b></td>
-<td align="center">N/A</td>
+<td align="center">75.6%</td>
 </tr>
 <tr>
 <td align="center">💻 <b>Language</b></td>
@@ -122,8 +120,6 @@ Software Engineer with proven experience architecting and developing **distribut
 <td align="center">250+ by December 2026</td>
 </tr>
 </table>
-
-</div>
 <!-- LC_STATS_END -->
 
 > Practicing **2 problems/day** in C++ · Focused on **Graphs, Dynamic Programming & Trees** — the highest-frequency Google & Amazon interview topics
@@ -134,7 +130,7 @@ Software Engineer with proven experience architecting and developing **distribut
 
 ```
 Distributed Systems  ████████████████████  Architected in Production (PoliceOSINT)
-Programming (C++)    ████████████████░░░░  163+ LeetCode · Daily Practice
+<!-- LC_READY_START -->Programming (C++)    ████████████████░░░░  163+ LeetCode · Daily Practice<!-- LC_READY_END -->
 Algorithms & DSA     ██████████████░░░░░░  Arrays, Trees, HashMaps · Building Graphs & DP
 AI Integration       ████████████████████  Groq/Llama-3.3-70b in Production
 System Design        ████████████░░░░░░░░  Learning · PoliceOSINT as foundation
