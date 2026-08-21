@@ -4,7 +4,7 @@
 
 ### Software Engineer · Distributed Systems & AI Integration
 
-<!-- LC_TYPING_START --><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+186%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles" alt="Typing SVG" /><!-- LC_TYPING_END -->
+<!-- LC_TYPING_START --><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+187%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles" alt="Typing SVG" /><!-- LC_TYPING_END -->
 
 ---
 
@@ -95,11 +95,11 @@ Software Engineer with proven experience architecting and developing **distribut
 <table>
 <tr>
 <td align="center">✅ <b>Total Solved</b></td>
-<td align="center"><b>186</b></td>
+<td align="center"><b>187</b></td>
 </tr>
 <tr>
 <td align="center">🟢 <b>Easy</b></td>
-<td align="center">50</td>
+<td align="center">51</td>
 </tr>
 <tr>
 <td align="center">🟡 <b>Medium</b></td>
@@ -135,7 +135,7 @@ Software Engineer with proven experience architecting and developing **distribut
 <!-- LC_READY_START -->
 ```
 Distributed Systems  ████████████████████  Architected in Production (PoliceOSINT)
-Programming (C++)    ████████████████░░░░  186+ LeetCode · Daily Practice
+Programming (C++)    ████████████████░░░░  187+ LeetCode · Daily Practice
 Algorithms & DSA     ██████████████░░░░░░  Arrays, Trees, HashMaps · Building Graphs & DP
 AI Integration       ████████████████████  Groq/Llama-3.3-70b in Production
 System Design        ████████████░░░░░░░░  Learning · PoliceOSINT as foundation
