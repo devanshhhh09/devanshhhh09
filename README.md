@@ -4,7 +4,7 @@
 
 ### Software Engineer · Distributed Systems & AI Integration
 
-<!-- LC_TYPING_START --><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+187%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles" alt="Typing SVG" /><!-- LC_TYPING_END -->
+<!-- LC_TYPING_START --><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=4285F4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;lines=Building+PoliceOSINT+for+Gurugram+Police;DSA+in+C%2B%2B+%7C+188%2B+LeetCode+Solved;Targeting+Google+%26+Amazon+SWE+Roles" alt="Typing SVG" /><!-- LC_TYPING_END -->
 
 ---
 
@@ -95,7 +95,7 @@ Software Engineer with proven experience architecting and developing **distribut
 <table>
 <tr>
 <td align="center">✅ <b>Total Solved</b></td>
-<td align="center"><b>187</b></td>
+<td align="center"><b>188</b></td>
 </tr>
 <tr>
 <td align="center">🟢 <b>Easy</b></td>
@@ -107,7 +107,7 @@ Software Engineer with proven experience architecting and developing **distribut
 </tr>
 <tr>
 <td align="center">🔴 <b>Hard</b></td>
-<td align="center">32</td>
+<td align="center">33</td>
 </tr>
 <tr>
 <td align="center">📊 <b>Acceptance Rate</b></td>
@@ -135,7 +135,7 @@ Software Engineer with proven experience architecting and developing **distribut
 <!-- LC_READY_START -->
 ```
 Distributed Systems  ████████████████████  Architected in Production (PoliceOSINT)
-Programming (C++)    ████████████████░░░░  187+ LeetCode · Daily Practice
+Programming (C++)    ████████████████░░░░  188+ LeetCode · Daily Practice
 Algorithms & DSA     ██████████████░░░░░░  Arrays, Trees, HashMaps · Building Graphs & DP
 AI Integration       ████████████████████  Groq/Llama-3.3-70b in Production
 System Design        ████████████░░░░░░░░  Learning · PoliceOSINT as foundation
