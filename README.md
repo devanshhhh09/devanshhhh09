@@ -89,7 +89,7 @@
   │  Easy            │  62  🟢              │
   │  Medium          │  126  🟡              │
   │  Hard            │  43  🔴              │
-  │  Acceptance      │  94.1%               │
+  │  Acceptance      │  94.12%              │
   │  Language        │  C++                 │
   │  Goal            │  450+ by Dec 2026    │
   └──────────────────┴──────────────────────┘
