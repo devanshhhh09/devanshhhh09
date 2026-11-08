@@ -85,11 +85,11 @@
   ┌─────────────────────────────────────────┐
   │         LEETCODE STATS (LIVE)           │
   ├──────────────────┬──────────────────────┤
-  │  Total Solved    │  269                 │
+  │  Total Solved    │  270                 │
   │  Easy            │  70  🟢              │
-  │  Medium          │  149  🟡              │
+  │  Medium          │  150  🟡              │
   │  Hard            │  50  🔴              │
-  │  Acceptance      │  91.51%              │
+  │  Acceptance      │  91.33%              │
   │  Language        │  C++                 │
   │  Goal            │  400+ by Dec 2026    │
   └──────────────────┴──────────────────────┘
@@ -104,7 +104,7 @@
 <!-- LC_READY_START -->
 ```
   [████████████████████] Distributed Systems    → Architected in Production
-  [████████████████░░░░] DSA in C++ (269+)      → Daily Practice
+  [████████████████░░░░] DSA in C++ (270+)      → Daily Practice
   [██████████████░░░░░░] Graphs & DP            → Active Focus
   [████████████████████] AI Integration         → Shipped to Production
   [████████████░░░░░░░░] System Design          → Building Intuition
